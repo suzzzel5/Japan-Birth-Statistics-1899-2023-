@@ -49,6 +49,12 @@ jupyter notebook japan_birth_analysis.ipynb
 ```
 
 ---
+Convert our Pandas columns into NumPy arrays and use  
+NumPy functions to compute real statistics — mean, median, std, percentiles,  
+correlation and decade-wise averages.
+
+**Why NumPy?** It works directly on arrays (much faster than loops) and gives  
+us precise mathematical control over our data.
 
 ##  Key Findings
 
